@@ -62,5 +62,3 @@ python agentic_worker.py
 
 # Starts the FastAPI web server
 python app.py
-
-## Agent Run Test
