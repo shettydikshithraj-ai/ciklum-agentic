@@ -64,7 +64,3 @@ python agentic_worker.py
 python app.py
 
 ## Agent Run Test
-
-curl -X POST http://localhost:8080/api/run \
-  -H "Content-Type: application/json" \
-  -d '{"prompt": "Calculate factorial of 5"}'
