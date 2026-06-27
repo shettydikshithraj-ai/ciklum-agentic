@@ -1,0 +1,10 @@
+# Python environment artifacts
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# Environment configurations & local logs
+.env
+*.log
